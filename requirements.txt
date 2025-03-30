@@ -1,4 +1,4 @@
-Django
+Django>=4.0
 psycopg2-binary
 social-auth-app-django
 urllib3==1.26.6
