@@ -1,4 +1,4 @@
-![ResumeGEN](https://github.com/iamsayedanowar/ResumeGEN/blob/main/img/GRP.png)
+![ResumeGEN](https://raw.githubusercontent.com/iamsayedanowar/ResumeGEN/refs/heads/main/img/GRP.png)
 
 # ResumeGEN
 
