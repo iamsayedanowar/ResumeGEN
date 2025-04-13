@@ -9,7 +9,7 @@ This is a Django project for creating and managing resumes. Users can sign up, f
 1. Clone the repository:
 
    ```bash
-   https://github.com/sayedanowar/ResumeGEN.git
+   https://github.com/iamsayedanowar/ResumeGEN.git
    ```
 
 2. Install dependencies:
