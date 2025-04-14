@@ -2,7 +2,7 @@
 
 # ResumeGEN
 
-This is a Django project for creating and managing resumes. Users can sign up, fill in their details, and generate a professional resume in PDF format.
+A Django app for creating resumes. Users can sign up, fill in their details, and generate professional resumes in PDF format.
 
 ## Setup Instructions
 
